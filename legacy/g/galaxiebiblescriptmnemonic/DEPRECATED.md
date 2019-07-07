@@ -1,1 +1,0 @@
-This keyboard has been deprecated and replaced by packages/galaxie_greek_hebrew_mnemonic, release/g/galaxie_hebrew_mnemonic and release/g/galaxie_greek_mnemonic.
